@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+'Ingresa tu puntuacion'
+5
+1
+2
+pu
+7
+0
+1
+4
+pu<0
+7
+0
+1
+17
+pu>=0 and pu<=100
+7
+0
+1
+19
+pu>=101 and pu<=150
+7
+0
+1
+6
+p>=151
+13
+4
+1
+49
+'!Felicidades, ganaste 3 salarios minimos extra!'
+13
+13
+4
+1
+49
+'!Felicidades, ganaste 2 salarios minimos extra¡'
+13
+13
+4
+1
+48
+'!Felicidades, ganaste un salario minimo extra¡'
+13
+13
+4
+1
+28
+'Mas suerte para la proxima'
+13
+1
