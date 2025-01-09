@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'Ingresa tu edad'
+5
+1
+2
+x1
+7
+0
+1
+18
+x1>=60 and x1<=100
+7
+0
+1
+17
+x1>=18 and x1<=59
+13
+4
+1
+22
+'Boleto Adulto :$1800'
+13
+7
+0
+1
+15
+x1<=17 and x1>0
+13
+4
+1
+64
+'Ingresa tu promedio escolar (si no eres estudiante escribir 0)'
+5
+1
+2
+x2
+7
+0
+1
+5
+x2>=9
+7
+0
+1
+6
+x2<=10
+13
+4
+1
+20
+'Boleto Menor:$1200'
+13
+13
+4
+1
+57
+'Boleto Estudiante:$ 600 (Incluye una foto con una foca)'
+13
+13
+13
+4
+1
+26
+'Boleto Adulto Mayor:$720'
+13
+1
