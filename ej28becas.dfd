@@ -1,0 +1,112 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'Ingresa tu edad'
+5
+1
+2
+ed
+7
+0
+1
+5
+ed>18
+4
+1
+21
+'Ingresa tu promedio'
+5
+1
+5
+prom2
+7
+0
+1
+8
+prom2>=9
+7
+0
+1
+21
+prom2<=9 and prom2>=8
+7
+0
+1
+20
+prom2<8 and prom2>=6
+4
+1
+53
+'Gracias por participar, estudia más para la proxima'
+13
+4
+1
+35
+'Felicidades, tu beca sera de $100'
+13
+13
+4
+1
+36
+'Felicidades, tu beca sera de $2000'
+13
+13
+4
+1
+36
+'Felicidades, tu beca sera de $3000'
+13
+13
+4
+1
+21
+'Ingresa tu promedio'
+5
+1
+4
+prom
+7
+0
+1
+7
+prom>=9
+7
+0
+1
+9
+prom>=7.5
+7
+0
+1
+20
+prom<7.5 and prom>=6
+4
+1
+29
+'Estudia más para la proxima'
+13
+4
+1
+35
+'Felicidades, tu beca sera de $500'
+13
+13
+4
+1
+36
+'Felicidades, tu beca sera de $1000'
+13
+13
+4
+1
+36
+'Feilcidades, tu beca sera de $2000'
+13
+13
+1
