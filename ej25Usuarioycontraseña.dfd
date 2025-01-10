@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+2
+us
+5
+'Em1'
+4
+1
+42
+'Digita tu usuario entre comillas simples'
+5
+1
+2
+us
+7
+0
+1
+8
+us='Em1'
+4
+1
+31
+'Captura nuevamente tu usuario'
+13
+4
+1
+47
+'Digita tu contraseña entre commillas simples' 
+5
+1
+6
+contra
+7
+0
+1
+17
+contra='30505030'
+4
+1
+34
+'Usuario o contraseña incorrectos'
+13
+4
+1
+12
+'Bienvenido'
+13
+13
+1
