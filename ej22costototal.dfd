@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+42
+'Ingrese el precio de la primera pelicula'
+5
+1
+2
+p1
+4
+1
+42
+'Ingrese el precio de la segunda pelicula'
+5
+1
+2
+p2
+4
+1
+42
+'Ingrese el precio de la tercera pelicula'
+5
+1
+2
+p3
+7
+0
+1
+15
+p1>p2 and p1>p3
+13
+6
+1
+11
+costo_total
+5
+p2+p3
+13
+7
+0
+1
+15
+p2>p1 and p2>p3
+13
+6
+1
+11
+costo_total
+5
+p1+p3
+13
+7
+0
+1
+15
+p3>p2 and p3>p1
+13
+6
+1
+11
+costo_total
+5
+p1+p2
+13
+4
+1
+33
+'EL COSTO TOTAL ES:', costo_total
+1
